@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@ssh://nguyenkh@oregonstate.edu@gpu-bart.eecs.oregonstate.edu:22/nfs/stak/students/n/nguyenkh/miniconda3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="" remote-root="/nfs/stak/students/n/nguyenkh" />
+              <mapping local-root="/scratch" remote-root="/scratch" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@ssh://khoinguyen@10.147.17.123:1991/home/khoinguyen/miniconda3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="/scratch" remote-root="/scratch" />
+              <mapping local-root="$PROJECT_DIR$/.." remote-root="/home/khoinguyen/PycharmProjects" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

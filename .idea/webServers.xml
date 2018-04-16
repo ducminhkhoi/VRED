@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e7ccc40-2908-4aeb-96fe-a46bbba93b24" name="gpu-bart.eecs.oregonstate.edu" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/scratch/nguyenkh" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
